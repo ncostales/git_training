@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. Here is a remote edit that someone made and she's adding more to make a conflict but hopefully it's resolved now!
 HIIII AGAIN!
 and another change!!
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Here is a second line that some girl just put in, and now she is adding more to create a merge conflict. She is also adding more text for the rebasing part.
+>>>>>>> add_patrick
